@@ -1,0 +1,103 @@
+
+
+1. Patient Introduction
+Name: Walid Mohammed
+
+Age: 33 (DOB: 29 October 1990)
+
+Background:
+
+IT professional at a city-centre bank (1 year in role).
+
+Moved to the UK 3 years ago with wife and two young children.
+
+History of stress/anxiety linked to job, cultural adjustment, and financial pressures (sole income earner).
+
+2. Symptom Assessment Flow
+Chatbot Prompt (Q1):
+"Hi Walid. Your GP mentioned low back pain. Can you describe when it started and how it’s affecting you?"
+
+User Input Options (structured):
+
+Onset: 8 months ago.
+
+Location: Lower back (right side), radiating to buttocks and thighs (not below knees).
+
+Pain Type: Dull/stiff (severity: 7/10).
+
+Triggers: Sitting, bending, lifting children.
+
+Impact: Sleep disruption, reduced activity, weight loss (5–6 kg), anxiety about long-term health.
+
+Follow-Up Questions (conditional logic):
+
+"Does the pain include tingling, numbness, or weakness in your legs?"
+→ No.
+
+"Have painkillers (e.g., paracetamol) helped?"
+→ No relief.
+
+"How has stress affected your pain?"
+→ Linked to job demands and fear of worsening symptoms.
+
+3. Medical & Family History
+Chatbot Prompts:
+
+"Do you have other health conditions or take medications?"
+→ No smoking/drinking. No prior diagnoses.
+
+"Family history of chronic conditions?"
+→ Mother: hypertension. Father: high cholesterol. Uncle: severe back issues (limited mobility).
+
+4. Functional Impact Assessment
+Chatbot Tools:
+
+Pain Severity Scale: 0–10 rating (back: 7/10, leg: 7/10).
+
+Activity Limitations:
+
+"What activities can’t you do due to pain?"
+→ Football, gym, playing with children.
+
+"How does pain affect your work?"
+→ Stressful IT role with prolonged sitting.
+
+5. Physical Exam Simulation (AI Adaptation)
+(Since chatbots can’t perform physical exams, use descriptive prompts.)
+
+Chatbot Instructions:
+
+"Can you bend forward and describe any pain or stiffness?"
+→ "Pain worsens when bending, lasts 2+ hours."
+
+"Try lifting a light object (e.g., a book). Does this trigger pain?"
+→ "Yes, similar to lifting my children."
+
+"Rate your discomfort when standing on one leg."
+→ Right leg: difficult.
+
+6. Empathetic Reassurance & Next Steps
+Chatbot Responses:
+
+"It sounds like this pain is really impacting your daily life. Let’s work on a plan together."
+
+Recommendations:
+
+Stress Management: Referral to mindfulness resources or counselling.
+
+Exercise Modification: Gentle stretching/yoga (avoid aggravating movements).
+
+Clinical Follow-Up: Suggest physiotherapy for mobility training.
+
+Safety Netting: "If you develop leg weakness or numbness, contact your GP urgently."
+
+Why This Works for AI/Chatbot Use
+Structured Data Capture: Clear categories (symptoms, history) enable automated triage and documentation.
+
+Conditional Logic: Follow-up questions adapt to user inputs (e.g., radiating pain triggers nerve checks).
+
+Empathy & Clarity: Reassuring tone reduces anxiety, while plain language improves understanding.
+
+Actionable Outputs: Directs users to next steps (exercises, referrals) based on responses.
+
+This format balances clinical rigor with conversational usability, making it ideal for AI-driven healthcare interactions.
