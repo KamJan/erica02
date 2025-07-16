@@ -1,103 +1,65 @@
+midwifery Please go to the placement section of the student sharepoint. This can be found by clicking on the “your learning” section and then “practice learning” or via the direct link below: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
+nursing Please go to the placement section of the student sharepoint. This can be found by clicking on the “your learning” section and then “practice learning” or via the direct link below:https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-1. Patient Introduction
-Name: Walid Mohammed
+physiotherapy Please go to the placement section of the student sharepoint. This can be found by clicking on the “your learning” section and then “practice learning” or via the direct link below: https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx More information can be found on Moodle PHRS2030, and PHRS3200
 
-Age: 33 (DOB: 29 October 1990)
+sport rehab On Moodle "BSc Sport Rehabilitation All Cohorts" you will find a "placement information" with generic information regarding placements.
 
-Background:
+midwifery Midwifery Placements are allocated across the following trust partners: Chesterfield Royal Hospital NHS Foundation Trust, Nottingham University Hospitals NHS Trust, Sherwood Forest Hospitals NHS Foundation Trust, University Hospitals of Derby & Burton NHS Foundation Trust... Students will be allocated to “home” and “away” bases during the programme and so will be expected to experience at least two of the above practice organisations. Students will be allocated their “away” base in year one of the programme and their “home” base in years two and three. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-IT professional at a city-centre bank (1 year in role).
+nursing Placements are allocated accross our placement circuit to ensure a breadth of experience. You will be informed when allocations have been released to students. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-Moved to the UK 3 years ago with wife and two young children.
+physiotherapy Placements are allocated accross our placement circuit to ensure a breadth of experience. You will be informed when allocations have been released to students. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-History of stress/anxiety linked to job, cultural adjustment, and financial pressures (sole income earner).
+sport rehab Placements are allocated accross our placement circuit to ensure a breadth of experience. You will be informed when allocations have been released to students. Allocated placements can be viewed on ARC POW (Student Records System) – placements on the Web
 
-2. Symptom Assessment Flow
-Chatbot Prompt (Q1):
-"Hi Walid. Your GP mentioned low back pain. Can you describe when it started and how it’s affecting you?"
+midwifery Placements are allocated by the Placement Allocation team who will ensure you experience a range of placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-User Input Options (structured):
+nursing Placements are allocated by the Placement Allocation team who will ensure you experience a range of placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-Onset: 8 months ago.
+physiotherapy Placements are allocated by the Placement Allocation team who will ensure you experience a range of placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-Location: Lower back (right side), radiating to buttocks and thighs (not below knees).
+sport rehab Placements are allocated by the Placement Allocation team who will ensure you experience placements to meet your programme requirements. You will be informed when your next placement is available to view on ARC POW (Student Records System) – placements on the Web. https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/ARCPOW.aspx
 
-Pain Type: Dull/stiff (severity: 7/10).
+midwifery You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Triggers: Sitting, bending, lifting children.
+nursing You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Impact: Sleep disruption, reduced activity, weight loss (5–6 kg), anxiety about long-term health.
+physiotherapy You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-Follow-Up Questions (conditional logic):
+sport rehab You can access ARCPOW via the button on the placement sharepoint https://uniofnottm.sharepoint.com/sites/SoHSStudentExperience2/SitePages/Placement-Information.aspx
 
-"Does the pain include tingling, numbness, or weakness in your legs?"
-→ No.
+midwifery We aim to release as much information as possible at the start of the academic year. It may not always be possible to release a full year at this stage. Students will know their base for the full year.
 
-"Have painkillers (e.g., paracetamol) helped?"
-→ No relief.
+nursing Placements are released individually as soon as we have confirmation from practice partners. We aim to release placements as early as possible. Where we are unable to release placements 4 weeks in advance, we will let you know.
 
-"How has stress affected your pain?"
-→ Linked to job demands and fear of worsening symptoms.
+physiotherapy Placements are released individually as soon as we have confirmation from practice partners. We aim to release placements as early as possible. Where we are unable to release placements 4 weeks in advance, we will let you know.
 
-3. Medical & Family History
-Chatbot Prompts:
+sport rehab Placements are released individually as soon as we have confirmation from practice partners. We aim to release placements as early as possible. Where we are unable to release placements 4 weeks in advance, we will let you know.
 
-"Do you have other health conditions or take medications?"
-→ No smoking/drinking. No prior diagnoses.
+midwifery Placement blocks are found on the UG academic planner which is found on your BSc Midwifery (all years) Moodle page
 
-"Family history of chronic conditions?"
-→ Mother: hypertension. Father: high cholesterol. Uncle: severe back issues (limited mobility).
+nursing Placement blocks are found on the UG academic planner which is found on your BSc/GEN all years moodle page.
 
-4. Functional Impact Assessment
-Chatbot Tools:
+physiotherapy Placement dates are on the academic year planner. These can be found on your BSc Physiotherapy (all years) moodle page.
 
-Pain Severity Scale: 0–10 rating (back: 7/10, leg: 7/10).
+sport rehab Placement dates are on the academic year planner. These can be found on your BSc Sport Rehabilitation (all years) moodle page.
 
-Activity Limitations:
+midwifery We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement.If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Placement adjustment process.
 
-"What activities can’t you do due to pain?"
-→ Football, gym, playing with children.
+nursing We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement.If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Special considerations process.
 
-"How does pain affect your work?"
-→ Stressful IT role with prolonged sitting.
+physiotherapy We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement.If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Special considerations process.
 
-5. Physical Exam Simulation (AI Adaptation)
-(Since chatbots can’t perform physical exams, use descriptive prompts.)
+sport rehab We are fortunate to have access to a wide placement circuit which offers a breadth of experiences for our students. Travel time to placements will vary. Where travel times exceed an hour, the school recommends that students seek alternative accommodation near the clinical placement.If you have any concerns, please contact your personal tutor for a discussion and to look at support options such as placement exchange and Special considerations process.
 
-Chatbot Instructions:
+midwifery No, you are unable to find your own placements as standard with the exception of the elective placement. All standard placements are arranged by us to ensure they have completed an audit and meet our quality standards. Information about the elective will be presented within your programme module.
 
-"Can you bend forward and describe any pain or stiffness?"
-→ "Pain worsens when bending, lasts 2+ hours."
+nursing No, you are unable to find your own placements as standard with the exception of the elective placement. All standard placements are arranged by us to ensure they have completed an audit and meet our quality standards. Information about the elective will be presented within your programme module.
 
-"Try lifting a light object (e.g., a book). Does this trigger pain?"
-→ "Yes, similar to lifting my children."
+physiotherapy No, you are unable to find your own placement. All of our placements are arranged by us to ensure they have completed an audit and meet our quality standards.
 
-"Rate your discomfort when standing on one leg."
-→ Right leg: difficult.
+sport rehab No, you are unable to find your own placement. All of our placements are arranged by us to ensure they have completed an audit and meet our quality standards.
 
-6. Empathetic Reassurance & Next Steps
-Chatbot Responses:
-
-"It sounds like this pain is really impacting your daily life. Let’s work on a plan together."
-
-Recommendations:
-
-Stress Management: Referral to mindfulness resources or counselling.
-
-Exercise Modification: Gentle stretching/yoga (avoid aggravating movements).
-
-Clinical Follow-Up: Suggest physiotherapy for mobility training.
-
-Safety Netting: "If you develop leg weakness or numbness, contact your GP urgently."
-
-Why This Works for AI/Chatbot Use
-Structured Data Capture: Clear categories (symptoms, history) enable automated triage and documentation.
-
-Conditional Logic: Follow-up questions adapt to user inputs (e.g., radiating pain triggers nerve checks).
-
-Empathy & Clarity: Reassuring tone reduces anxiety, while plain language improves understanding.
-
-Actionable Outputs: Directs users to next steps (exercises, referrals) based on responses.
-
-This format balances clinical rigor with conversational usability, making it ideal for AI-driven healthcare interactions.
+If you need this as a .txt file, simply copy and paste all or use the “export” feature in your application of choice
